@@ -228,6 +228,7 @@
       <RuntimeTypeInfo>true</RuntimeTypeInfo>
       <TreatWarningAsError>true</TreatWarningAsError>
       <WarningLevel>Level4</WarningLevel>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
     </ClCompile>
     <Lib>
       <TargetMachine>MachineX64</TargetMachine>
@@ -404,6 +405,7 @@
       <TreatWarningAsError>true</TreatWarningAsError>
       <WarningLevel>Level4</WarningLevel>
       <WholeProgramOptimization>true</WholeProgramOptimization>
+      <ControlFlowGuard>Guard</ControlFlowGuard>
     </ClCompile>
     <Lib>
       <TargetMachine>MachineX64</TargetMachine>
